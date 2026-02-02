@@ -1,0 +1,15 @@
+{
+  "name": "creating-first-server",
+  "version": "1.0.0",
+  "description": "Creating first server-side using express and node",
+  "license": "ISC",
+  "author": "Keshav Arya",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

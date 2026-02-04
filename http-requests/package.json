@@ -1,0 +1,23 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "HTTP \"GET\" request",
+  "homepage": "https://github.com/keshavRya/ExpressJS#readme",
+  "bugs": {
+    "url": "https://github.com/keshavRya/ExpressJS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keshavRya/ExpressJS.git"
+  },
+  "license": "ISC",
+  "author": "keshav rya",
+  "type": "module",
+  "main": "getReq.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
